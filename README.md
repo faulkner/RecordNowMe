@@ -1,9 +1,3 @@
-to run:
-shotgun app.rb
+# RecordNow.Me
 
-heroku:
-heroku create <appName> --stack cedar
-
-Bootstrap:
-	1) Bootstrap.min.css, Bootstrap.min.js
-	2) Bootstrap icons: Changed min to correct path, copy icons to images folder
+A site that lets you record videos of yourself and download an flv file
